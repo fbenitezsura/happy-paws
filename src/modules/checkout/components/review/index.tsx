@@ -37,7 +37,7 @@ const Review = () => {
           <div className="flex items-start gap-x-1 w-full mb-6">
             <div className="w-full">
               <Text className="txt-medium-plus text-ui-fg-base mb-1">
-                Al hacer clic en el botón Realizar pedido, confirma que ha leído, comprende y acepta nuestros Términos de uso, Términos de venta y Política de devoluciones y reconoce que ha leído la Política de privacidad de Mary Cris Store.
+                Al hacer clic en el botón Realizar pedido, confirma que ha leído, comprende y acepta nuestros Términos de uso, Términos de venta y Política de devoluciones y reconoce que ha leído la Política de privacidad de Happy Paws Store.
               </Text>
             </div>
           </div>

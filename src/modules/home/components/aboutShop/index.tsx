@@ -21,11 +21,11 @@ const AboutShop = () => {
     return (
         <div className="mt-[40px] px-[16px] md:px-[0px] max-w-[1180px] mx-auto grid grid-cols-12">
             <div className="col-span-12 xl:px-[20px] flex flex-col text-center mb-[45px]">
-                <img className="h-full w-[390px] mx-auto rounded-[1px]" src="/img/banners/nature.webp" />
+                <img className="h-full w-[380px] mx-auto rounded-[1px]" src="/img/banners/nature.webp" />
                 <p className='text-center mt-[30px]'>
-                    Somos una tienda en línea especializada en huevos frescos.<br />
-                    Además de nuestra amplia variedad de huevos, también ofrecemos una selección de útiles de aseo de alta calidad.<br />
-                    ¡Visítanos y descubre la frescura de nuestros huevos y la excelencia de nuestros productos de aseo!
+                    Somos una tienda en línea especializada en productos para mascotas.
+                    Además de nuestra amplia variedad de alimentos y juguetes, también ofrecemos una selección de accesorios de alta calidad.<br />
+                    ¡Visítanos y descubre el bienestar que nuestros productos brindan a tus mascotas!
                 </p>
             </div>
             {sections.map((section, index) => (
